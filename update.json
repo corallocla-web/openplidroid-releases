@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/v0.2.0/openplidroid-0.2.0.apk",
+  "date": "2026-09-01",
+  "notes": "Système de mise à jour intégré : l'app vérifie elle-même les nouvelles versions et les installe. EPG dans la liste des chaînes du lecteur."
+}
