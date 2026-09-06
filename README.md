@@ -1,28 +1,23 @@
 # OpenPLiDroid — releases
 
-Distribution channel for **OpenPLiDroid**, an Android app that turns a
-Dreambox / OpenPLi (enigma2) satellite receiver into a full-screen, remote-driven
-experience — browse, watch, record and manage the box over your LAN.
-The source repository is private.
+APK downloads for **OpenPLiDroid**, an Android TV app that turns a
+Dreambox / OpenPLi (enigma2) satellite receiver into a full-screen,
+remote-driven experience — browse, watch, record and manage the box over
+your LAN via OpenWebIF.
 
-## Downloads
+- **Source code:** <https://github.com/corallocla-web/openplidroid-tv> (GPL-3.0)
+- **Latest APK:** the newest `tv-foss-v*` release below.
 
-Grab the latest APK from the
-[Releases](https://github.com/corallocla-web/openplidroid-releases/releases) page
-and side-load it (Send Files to TV, a USB stick, or `adb install -r`).
+## Install
 
-| Build | Release tag | Package | Notes |
-|---|---|---|---|
-| **Android TV** | `tv-foss-v*` | `com.openplidroid.foss` | public TV build |
-| Phone / tablet | `mobile-v*` | `com.openplidroid.mobile` | (when published) |
+Download `openplidroid-tv-<version>.apk` from
+[Releases](https://github.com/corallocla-web/openplidroid-releases/releases)
+and side-load it (Send Files to TV, a USB stick, the *Downloader* app, or
+`adb install -r`). Package id `com.openplidroid.foss`.
 
-Each APK is signed with a stable key, so the app updates itself in place — no
-reinstall. `update*.json` on the `main` branch are the manifests the apps poll
-(~every 12 h, and on demand from the app).
+The app has no built-in updater — check this page (or *Watch → Custom →
+Releases* on the source repo) for new versions.
 
 ## Support
 
-If OpenPLiDroid is useful to you, you can leave a tip — it's appreciated but
-never expected:
-
-☕ **[paypal.me/corallocla](https://paypal.me/corallocla)**
+☕ [paypal.me/corallocla](https://paypal.me/corallocla)
