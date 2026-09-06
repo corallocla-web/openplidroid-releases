@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v0.2.4/openplidroid-tv-0.2.4.apk",
+  "versionCode": 7,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.0/openplidroid-tv-1.0.0.apk",
   "date": "2026-09-06",
-  "notes": "Codice sorgente ora pubblico. Nessuna modifica funzionale."
+  "notes": "Prima release pubblica stabile. Build firmata (com.openplidroid.foss)."
 }
