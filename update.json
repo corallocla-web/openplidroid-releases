@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/v0.2.2/openplidroid-0.2.2.apk",
-  "date": "2026-09-01",
-  "notes": "Ne se ferme plus tout seul quand l'économiseur d'écran de la TV s'active."
+  "versionCode": 5,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/v0.2.3/openplidroid-0.2.3.apk",
+  "date": "2026-09-06",
+  "notes": "Aggiunta la versione TV pubblica senza OSCam."
 }
