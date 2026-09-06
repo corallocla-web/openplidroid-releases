@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v0.2.3/openplidroid-tv-0.2.3.apk",
+  "versionCode": 6,
+  "versionName": "0.2.4",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v0.2.4/openplidroid-tv-0.2.4.apk",
   "date": "2026-09-06",
-  "notes": "Prima versione TV pubblica, senza OSCam."
+  "notes": "Codice sorgente ora pubblico. Nessuna modifica funzionale."
 }
