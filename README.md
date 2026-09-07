@@ -1,22 +1,22 @@
 # OpenPLiDroid — releases
 
-APK downloads for **OpenPLiDroid**, an Android TV app that turns a
+APK downloads for **OpenPLiDroid**, a free Android TV app that turns a
 Dreambox / OpenPLi (enigma2) satellite receiver into a full-screen,
 remote-driven experience — browse, watch, record and manage the box over
-your LAN via OpenWebIF.
+your local network via OpenWebIF.
 
-- **Source code:** <https://github.com/corallocla-web/openplidroid-tv> (GPL-3.0)
-- **Latest APK:** the newest `tv-foss-v*` release below.
+The app runs on the Android TV device and connects to the receiver over the
+LAN. Nothing is installed on the box.
 
 ## Install
 
 Download `openplidroid-tv-<version>.apk` from
 [Releases](https://github.com/corallocla-web/openplidroid-releases/releases)
 and side-load it (Send Files to TV, a USB stick, the *Downloader* app, or
-`adb install -r`). Package id `com.openplidroid.foss`.
+`adb install -r`). Package id `com.openplidroid.foss`. Requires Android 6.0+
+and OpenWebIF reachable on your LAN.
 
-The app has no built-in updater — check this page (or *Watch → Custom →
-Releases* on the source repo) for new versions.
+Check this page for new versions (the app has no built-in updater).
 
 ## Support
 
