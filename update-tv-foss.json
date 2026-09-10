@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.3/openplidroid-tv-1.0.3.apk",
+  "versionCode": 11,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.4/openplidroid-tv-1.0.4.apk",
   "date": "2026-09-10",
-  "notes": "In-app updates are back; recording playback: OK pauses, media keys + Stop work, options on the up key."
+  "notes": "Recording playback: number keys jump through the timeline (1/3 +/-15 min, 4/6 +/-5 min, 7/9 +/-1 min)."
 }
