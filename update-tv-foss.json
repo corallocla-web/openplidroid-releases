@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.7/openplidroid-tv-1.0.7.apk",
+  "versionCode": 15,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.8/openplidroid-tv-1.0.8.apk",
   "date": "2026-09-15",
-  "notes": "Fix hold-to-delete/favourite/lock not registering on some TV remotes"
+  "notes": "Fix self-update: Install was closing the app instead of handing off to the system installer"
 }
