@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.5/openplidroid-tv-1.0.5.apk",
-  "date": "2026-09-11",
-  "notes": "New: find missing channel logos and install them from an online catalog (Receiver screen, needs the box's SSH password once in Settings)."
+  "versionCode": 13,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.6/openplidroid-tv-1.0.6.apk",
+  "date": "2026-09-15",
+  "notes": "Fix crash on launch on Android 13/14+ boxes"
 }
