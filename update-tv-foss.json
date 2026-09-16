@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.8/openplidroid-tv-1.0.8.apk",
-  "date": "2026-09-15",
-  "notes": "Fix self-update: Install was closing the app instead of handing off to the system installer"
+  "versionCode": 16,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.9/openplidroid-tv-1.0.9.apk",
+  "date": "2026-09-16",
+  "notes": "Nome satellite nel player, anteprima mini-player nella home, barra EPG più stretta"
 }
