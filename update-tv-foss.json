@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.9/openplidroid-tv-1.0.9.apk",
-  "date": "2026-09-16",
-  "notes": "Nome satellite nel player, anteprima mini-player nella home, barra EPG più stretta"
+  "versionCode": 17,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.10/openplidroid-tv-1.0.10.apk",
+  "date": "2026-09-17",
+  "notes": "Nuove schermate Musica e Foto (con navigazione tra cartelle, brano avanti/indietro, avanzamento automatico e sfondo per i brani senza copertina)"
 }
