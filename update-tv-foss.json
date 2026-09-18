@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.12/openplidroid-tv-1.0.12.apk",
+  "versionCode": 20,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.13/openplidroid-tv-1.0.13.apk",
   "date": "2026-09-18",
-  "notes": "Corretto il mini-player della home (ora mostra sempre il canale visto per ultimo a schermo intero) e la tastiera nelle impostazioni (appare solo premendo OK, non spostandosi tra i campi)."
+  "notes": "Corretto un bug serio dell'aggiornamento precedente: alcuni canali potevano restare neri o bloccati dopo l'uso. Il sintonizzatore ora si libera solo quando l'app viene davvero chiusa."
 }
