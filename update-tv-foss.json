@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.10/openplidroid-tv-1.0.10.apk",
-  "date": "2026-09-17",
-  "notes": "Nuove schermate Musica e Foto (con navigazione tra cartelle, brano avanti/indietro, avanzamento automatico e sfondo per i brani senza copertina)"
+  "versionCode": 18,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.11/openplidroid-tv-1.0.11.apk",
+  "date": "2026-09-18",
+  "notes": "Corretto un bug per cui il ricevitore restava agganciato a un canale (un sintonizzatore bloccato) dopo aver lasciato l'app, causando su alcuni impianti audio mancante su altri canali/registrazioni. L'audio ora preferisce sempre la traccia italiana."
 }
