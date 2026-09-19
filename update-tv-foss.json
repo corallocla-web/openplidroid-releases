@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.14/openplidroid-tv-1.0.14.apk",
+  "versionCode": 22,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.15/openplidroid-tv-1.0.15.apk",
   "date": "2026-09-19",
-  "notes": "Fixed missing audio on channels like Nove HD on cheap Android TV sticks (MP2 codec support via a new VLC-based playback engine). Fixed the TV screensaver interrupting live playback. Roughly halved the app's install size by dropping unused x86/x86_64 native libraries (all ARM devices unaffected)."
+  "notes": "Fixed missing audio hiccups on live channels and broken music playback caused by an HTTP credentials bug. Added a new Video section: a configurable folder path in Settings with a dedicated home-screen button."
 }
