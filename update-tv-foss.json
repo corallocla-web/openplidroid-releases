@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.16",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.16/openplidroid-tv-1.0.16.apk",
+  "versionCode": 24,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.17/openplidroid-tv-1.0.17.apk",
   "date": "2026-09-23",
-  "notes": "Switched the video engine back to ExoPlayer (the one used through 1.0.13) after the VLC engine introduced in 1.0.14 caused freezing on Rai 4K and other 4K/HDR channels. The original MP2 audio fix (Nove HD and similar channels on cheap Android TV sticks) is preserved via a small dedicated software decoder that only engages on devices with no hardware MP2 support. Install size is back down to pre-1.0.14 levels."
+  "notes": "Corretto un bug: uscendo con Indietro l'audio non restava più attivo in sottofondo."
 }
