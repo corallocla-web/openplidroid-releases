@@ -1,7 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.22",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.22/openplidroid-tv-1.0.22.apk",
+  "versionCode": 30,
+  "versionName": "1.0.23",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.23/openplidroid-tv-1.0.23.apk",
   "date": "2026-09-29",
-  "notes": "Mostra il motivo reale se l'installazione dei loghi fallisce"
+  "notes": "- Loghi canali: corretto un bug per cui, con la cartella loghi vuota, l'app installava nella cartella sbagliata sul decoder.
+- Loghi canali: ora vengono installati anche nel formato service reference nativo di Enigma2.
+- Loghi canali: aggiunta una seconda fonte (picons/picons) con priorita sui loghi italiani/TivuSat."
 }
