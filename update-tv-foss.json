@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.18",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.18/openplidroid-tv-1.0.18.apk",
-  "date": "2026-09-24",
-  "notes": "Nuovo look ispirato a OpenPli, righe canali più compatte, e nuovo tasto 'Ignora questa versione' negli aggiornamenti."
+  "versionCode": 26,
+  "versionName": "1.0.19",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.19/openplidroid-tv-1.0.19.apk",
+  "date": "2026-09-29",
+  "notes": "Supporto audio AC3, rilevamento porta DreamOS, tasto donazioni"
 }
