@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.20",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.20/openplidroid-tv-1.0.20.apk",
+  "versionCode": 28,
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.21/openplidroid-tv-1.0.21.apk",
   "date": "2026-09-29",
-  "notes": "Migliorata la ricerca dei loghi canali"
+  "notes": "Messaggio chiaro se il catalogo loghi non si scarica"
 }
