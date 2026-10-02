@@ -1,10 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.24",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.24/openplidroid-tv-1.0.24.apk",
-  "date": "2026-09-30",
-  "notes": "- Nuovo: editor bouquet (riordina/rinomina/rimuovi canali, rinomina bouquet).
-- Nuovo: controllo parentale reale del ricevitore (blocca/sblocca canale o bouquet col PIN del decoder).
-- Nuovo: gestione plugin (installati, aggiorna elenco/tutto, installa/rimuovi dal catalogo).
-- Corretto il contrasto del testo sugli elementi evidenziati in arancione."
+  "versionCode": 32,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.25/openplidroid-tv-1.0.25.apk",
+  "date": "2026-10-02",
+  "notes": "Nuova Home: rail icone, bouquet richiamabile, mini player + EPG, canali su due righe"
 }
