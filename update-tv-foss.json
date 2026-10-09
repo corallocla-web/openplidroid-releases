@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.25/openplidroid-tv-1.0.25.apk",
-  "date": "2026-10-02",
-  "notes": "Nuova Home: rail icone, bouquet richiamabile, mini player + EPG, canali su due righe"
+  "versionCode": 36,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.26/openplidroid-tv-1.0.26.apk",
+  "date": "2026-10-09",
+  "notes": "Conferma prima di uscire dall'app con il tasto indietro, per evitare chiusure accidentali su dispositivi lenti."
 }
