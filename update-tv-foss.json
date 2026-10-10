@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.26/openplidroid-tv-1.0.26.apk",
-  "date": "2026-10-09",
-  "notes": "Conferma prima di uscire dall'app con il tasto indietro, per evitare chiusure accidentali su dispositivi lenti."
+  "versionCode": 37,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.27/openplidroid-tv-1.0.27.apk",
+  "date": "2026-10-10",
+  "notes": "Nuovo: puoi creare un timer manuale (canale + orario a scelta), non solo dalla guida EPG."
 }
