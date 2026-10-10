@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.29",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.29/openplidroid-tv-1.0.29.apk",
+  "versionCode": 40,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.30/openplidroid-tv-1.0.30.apk",
   "date": "2026-10-10",
-  "notes": "Lista canali della Home ora verticale e numerata, come quella a schermo intero."
+  "notes": "Lista canali della Home a due colonne, righe più compatte e mini player più piccolo — si vedono molti più canali insieme."
 }
