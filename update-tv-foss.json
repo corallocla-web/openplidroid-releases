@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.28",
-  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.28/openplidroid-tv-1.0.28.apk",
+  "versionCode": 39,
+  "versionName": "1.0.29",
+  "apkUrl": "https://github.com/corallocla-web/openplidroid-releases/releases/download/tv-foss-v1.0.29/openplidroid-tv-1.0.29.apk",
   "date": "2026-10-10",
-  "notes": "Risolto un blocco a schermo nero cambiando canale molto rapidamente; corretta la lista canali della Home (ora in fila consecutiva)."
+  "notes": "Lista canali della Home ora verticale e numerata, come quella a schermo intero."
 }
